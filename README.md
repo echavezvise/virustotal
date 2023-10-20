@@ -8,6 +8,8 @@ Para escanear uno en particular hay que entrar a la clase VirustotalApplication 
 
 ## Como ejecutar
 
+Poner la llave de virus total, ir al siguiente archivo src/main/resources/application.properties agregar la llave.
+
 Solo hay que iniciar el siguiente comando, en la carpeta donde se baje el proyecto
 
 ```
